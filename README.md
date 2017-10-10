@@ -1,2 +1,2 @@
-# ROS-Broastcast
-Reposiary Containing All Of ROS Broadcast's Messages.
+# ROS Broadcast Github Repositary
+This Reposiary Contains All Of ROS Broadcast's Messages.
